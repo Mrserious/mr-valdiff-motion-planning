@@ -1,0 +1,16 @@
+# Python 3.9+ is required.
+numpy
+scipy
+matplotlib
+dill
+hydra-core
+omegaconf
+torch
+torchvision
+diffusers
+einops
+zarr
+numcodecs
+tqdm
+wandb
+opencv-python
