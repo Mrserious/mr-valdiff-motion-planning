@@ -7,6 +7,12 @@ This folder is a self-contained demo for the full pipeline:
 
 The quick demo keeps the original settings. In particular, `fine-level` is fixed to `6`.
 
+## Demo Video
+
+<video src="assets/videos/combined_selection_with_state_control_panel_with_intro.mp4" controls width="100%"></video>
+
+If video preview is not rendered on your GitHub page, use this direct link: [combined_selection_with_state_control_panel_with_intro.mp4](assets/videos/combined_selection_with_state_control_panel_with_intro.mp4)
+
 ## Prerequisites
 
 - Python 3.9+ (3.10 recommended)
